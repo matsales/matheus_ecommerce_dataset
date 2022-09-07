@@ -13,6 +13,8 @@ persist_with: matheus_ecommerce_dataset_default_datagroup
 
 explore: native_derived_table {}
 
+explore: sql_derived_table {}
+
 
 
 explore: sellers {}
