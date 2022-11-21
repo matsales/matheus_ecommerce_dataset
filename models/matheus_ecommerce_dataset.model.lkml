@@ -17,6 +17,8 @@ explore: sql_derived_table {}
 
 explore: sql_runner_derived_table {}
 
+explore: customers_ext {}
+
 
 
 explore: sellers {}
